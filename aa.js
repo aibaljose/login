@@ -20,7 +20,7 @@
   
                 // If same return True. 
                 else{ 
-                   alert ("code  =" YS4xMjM=""); 
+                   alert ("code  =" YS4xMjM="base64"); 
                     return true; 
                 } 
             } 
