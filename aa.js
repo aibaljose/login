@@ -5,7 +5,7 @@
                 password2 = form.password2.value; 
   
                 // If password not entered 
-                if (password1 == '123') 
+                if (password1 == 'a.123.') 
                     window.open('http://aibaljose.github.io','popup','width=600,height=600');
                       
                 // If confirm password not entered 
