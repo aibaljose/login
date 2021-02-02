@@ -20,7 +20,7 @@
   
                 // If same return True. 
                 else{ 
-                   alert ("YS4xMjM=..base64"); 
+                   alert ("YS4xMjM=base64"); 
                     return true; 
                 } 
             } 
