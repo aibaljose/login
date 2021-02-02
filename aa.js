@@ -20,7 +20,7 @@
   
                 // If same return True. 
                 else{ 
-                   window.open('http://aibaljose.github.io','popup','width=600,height=600');
+                   alert ("പോയി പണി നോക്ക്"); 
                     return true; 
                 } 
             } 
